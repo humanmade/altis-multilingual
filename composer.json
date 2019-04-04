@@ -1,0 +1,19 @@
+{
+	"name": "humanmade/multilingual",
+	"description": "Multilingual Module for Platform",
+	"type": "library",
+	"license": "GPL-2.0-or-later",
+	"authors": [
+		{
+			"name": "Human Made",
+			"email": "hello@humanmade.com"
+		}
+	],
+	"require": {
+	},
+	"autoload" : {
+		"files": [
+			"load.php"
+		]
+	}
+}
