@@ -14,4 +14,4 @@ All user-facing strings in the codebase must be translation ready. Static string
 
 ## Installing Languages
 
-HM Platform is translated in to many languages. This includes the administrative interface and all user-facing strings that will be displayed on the front-end of the website. See [Installing Languages](installing-languages.md) for instructions.
+HM Platform is translated into many languages. This includes the administrative interface and all user-facing strings that will be displayed on the front-end of the website. See [Installing Languages](installing-languages.md) for instructions.
