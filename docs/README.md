@@ -10,7 +10,7 @@ All CMS content (content written by editors or contributors using the CMS) is au
 
 ## Codebase Translation
 
-All language strings in the codebase must be translation in to all languages you wish to support on your project. Static strings that are not part of the CMS authored content (for example, perhaps a search page's heading titled "Found 15 Results") has it's own process of translation. See [Code Internationalization](code-i18n.md) for details and instructions.
+All user-facing strings in the codebase must be translation ready. Static strings that are not part of the CMS authored content (for example, perhaps a search page's heading titled "Found 15 Results") has its own process of translation. See [Code Internationalization](code-i18n.md) for details and instructions.
 
 ## Installing Languages
 
