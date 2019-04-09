@@ -6,7 +6,7 @@ On projects taking a multilingual approach, there are several steps you'll need 
 
 ## Content Translation
 
-All CMS content (content written by editors or contributors using the CMS) is authored on the site created for that specific language. This allows for different editorial teams and information architecture per language. See [Translating Content](content.md) for details on setting this up this process.
+All CMS content (content written by editors or contributors using the CMS) is authored on the site created for that specific language. This allows for different editorial teams and information architecture per language. See [Translating Content](content.md) for details on setting up this process.
 
 ## Codebase Translation
 
