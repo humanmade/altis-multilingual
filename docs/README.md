@@ -6,12 +6,12 @@ On projects taking a multilingual approach, there are several steps you'll need 
 
 ## Content Translation
 
-All CMS content (content written by editors or contributors using the CMS) is authored on the site created for that specific language. This allows for different editorial teams and information architecture per language. See [Translating Content](content.md) for details on setting this up this process.
+All CMS content (content written by editors or contributors using the CMS) is authored on the site created for that specific language. This allows for different editorial teams and information architecture per language. See [Translating Content](content.md) for details on setting up this process.
 
 ## Codebase Translation
 
-All language strings in the codebase must be translation in to all languages you wish to support on your project. Static strings that are not part of the CMS authored content (for example, perhaps a search page's heading titled "Found 15 Results") has it's own process of translation. See [Code Internationalization](code-i18n.md) for details and instructions.
+All user-facing strings in the codebase must be translation ready. Static strings that are not part of the CMS authored content (for example, perhaps a search page's heading titled "Found 15 Results") has its own process of translation. See [Code Internationalization](code-i18n.md) for details and instructions.
 
 ## Installing Languages
 
-HM Platform is translated in to many languages. This includes the administrative interface and all user-facing strings that will be displayed on the front-end of the website. See [Installing Languages](installing-languages.md) for instructions.
+HM Platform is translated into many languages. This includes the administrative interface and all user-facing strings that will be displayed on the front-end of the website. See [Installing Languages](installing-languages.md) for instructions.

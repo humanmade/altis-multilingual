@@ -2,7 +2,7 @@
 
 When a project is intended to be localized to multiple languages, all the strings in the codebase must also be translated. Any language strings that are "hardcoded" in PHP or JavaScript files must follow the code internationalization practices to ensure they can be translated into any language you want to support.
 
-This is done by passing all strings that your custom code outputs through the translation API functions. This is used to both swap your strings for their translated variant at runtime depending on the language of the site, and also be used as markers to generating translation template files (POT files).
+This is done by passing all strings that your custom code outputs through the translation API functions. This is used to both swap your strings for their translated variant at runtime depending on the language of the site, and also be used as markers for generating translation template files (POT files).
 
 Once you have generated a POT file for you custom code, you can provide your translators with these files. Typically programs such as [poedit](https://poedit.net/) are used to author translations.
 
