@@ -63,7 +63,7 @@ Once you have ensured all the strings in your custom code are using translation 
 wp i18n make-pot content --domain=<your-text-domain> <your-text-domain>.pot
 ```
 
-This will place a new file in at the path `<your-text-doamin>.pot`.
+This will place a new file at the path `<your-text-domain>.pot`.
 
 ## Installing Translated Files
 
