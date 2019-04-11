@@ -67,8 +67,5 @@ This will place a new file in at the path `<your-text-doamin>.pot`.
 
 ## Installing Translated Files
 
-The POT files you create should be passed to yoru translation team. Their translations should be exported as `.mo` files. Each language will have it's own translated file. Copy the `.mo` files to `content/languages/plugins/<text-domain>-<language-code>-<country-code>.mo`. You must also load the `.mo` file via the `load_plugin_textdomain()` function. This can be done from a custom plugin or within your theme.
+The POT files you create should be passed to yoru translation team. Their translations should be exported as `.mo` files. Each language will have it's own translated file. Copy the `.mo` files to `content/languages/plugins/<text-domain>-<language-code>-<country-code>.mo`.
 
-```php
-load_plugin_textdomain( 'my-text-domain' );
-```
