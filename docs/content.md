@@ -1,6 +1,6 @@
 # Translating Content
 
-The HM Platform multilingual architecture uses a site for each language. This enables great flexibility in publishing workflows, as each language can have it's own information architecture, content, editorial team and even features.
+The Altis multilingual architecture uses a site for each language. This enables great flexibility in publishing workflows, as each language can have it's own information architecture, content, editorial team and even features.
 
 ## Create a site for a language
 

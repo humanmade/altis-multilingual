@@ -8,7 +8,7 @@ Once you have generated a POT file for you custom code, you can provide your tra
 
 ## Translation API Functions
 
-Whenever you output a string in code, you must use a translation function. HM Platform uses the [WordPress Translation API](https://codex.wordpress.org/I18n_for_WordPress_Developers) to provide code level internationalization (i18n). Translations in code are tied to a "Text Domain" which is an identifier for which translation file should be used for a given translation. It's recommended you use a single translation domain for all your project's custom code. This will mean you only need to get a single POT file translated.
+Whenever you output a string in code, you must use a translation function. Altis uses the [WordPress Translation API](https://codex.wordpress.org/I18n_for_WordPress_Developers) to provide code level internationalization (i18n). Translations in code are tied to a "Text Domain" which is an identifier for which translation file should be used for a given translation. It's recommended you use a single translation domain for all your project's custom code. This will mean you only need to get a single POT file translated.
 
 Whenever you "hardcode" strings in PHP, you should wrap them in the appropriate translation function for the context. For example, consider the following code.
 

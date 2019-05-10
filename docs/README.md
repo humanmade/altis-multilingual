@@ -1,6 +1,6 @@
 # Multilingual
 
-Providing your website or content in multiple languages for readers is common place on the web. There are several patterns or approaches to providing multilingual content on websites. HM Platform best supports the pattern of providing users with region based websites, each language with it's own website, information architecture, editorial permissions and language specific administrative interface. This approach allows the greatest flexibility in multilingual implementations.
+Providing your website or content in multiple languages for readers is common place on the web. There are several patterns or approaches to providing multilingual content on websites. Altis best supports the pattern of providing users with region based websites, each language with it's own website, information architecture, editorial permissions and language specific administrative interface. This approach allows the greatest flexibility in multilingual implementations.
 
 On projects taking a multilingual approach, there are several steps you'll need to take.
 
@@ -14,4 +14,4 @@ All user-facing strings in the codebase must be translation ready. Static string
 
 ## Installing Languages
 
-HM Platform is translated into many languages. This includes the administrative interface and all user-facing strings that will be displayed on the front-end of the website. See [Installing Languages](installing-languages.md) for instructions.
+Altis is translated into many languages. This includes the administrative interface and all user-facing strings that will be displayed on the front-end of the website. See [Installing Languages](installing-languages.md) for instructions.

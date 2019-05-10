@@ -1,14 +1,14 @@
 <?php
 
-namespace HM\Platform\Multilingual;
+namespace Altis\Multilingual;
 
-use HM\Platform;
+use function Altis\register_module;
 
-// Don't self-initialize if this is not a Platform execution.
+// Don't self-initialize if this is not an Altis execution.
 if ( ! function_exists( 'add_action' ) ) {
 	return;
 }
 
-add_action( 'hm-platform.modules.init', function () {
-	Platform\register_module( 'multilingual', __DIR__, 'Multilingual', [] );
+add_action( 'altis.modules.init', function () {
+	register_module( 'multilingual', __DIR__, 'Multilingual', [] );
 } );
