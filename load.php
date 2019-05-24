@@ -1,6 +1,6 @@
 <?php
 
-namespace Altis\Multilingual;
+namespace Altis\Multilingual; // @codingStandardsIgnoreLine
 
 use function Altis\register_module;
 
