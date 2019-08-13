@@ -67,5 +67,4 @@ This will place a new file at the path `<your-text-domain>.pot`.
 
 ## Installing Translated Files
 
-The POT files you create should be passed to yoru translation team. Their translations should be exported as `.mo` files. Each language will have it's own translated file. Copy the `.mo` files to `content/languages/plugins/<text-domain>-<language-code>-<country-code>.mo`.
-
+The POT files you create should be passed to your translation team. Their translations should be exported as `.mo` files. Each language will have it's own translated file. Copy the `.mo` files to `content/languages/plugins/<text-domain>-<language-code>-<country-code>.mo`.
