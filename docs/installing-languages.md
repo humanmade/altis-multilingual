@@ -6,7 +6,7 @@ Once you know the language codes you want to install, use the following CLI comm
 
 ```sh
 wp language core install pt_BR
-wp language core plugin install --all pt_BR
+wp language plugin install --all pt_BR
 ```
 
 This will download the language files in to the `content/languages` directory. These files should be committed to version control and deployed.
