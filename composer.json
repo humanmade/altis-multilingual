@@ -11,9 +11,7 @@
 	],
 	"require": {
 	},
-	"autoload" : {
-		"files": [
-			"load.php"
-		]
+	"extra": {
+		"altis": {}
 	}
 }
