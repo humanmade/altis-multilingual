@@ -29,7 +29,7 @@ Whenever strings are directly outputted, always use the appropriate escaping tra
 |`esc_html_e`|Output a translated string between HTML tags|
 |`esc_attr_e`|Output a translated string in an HTML element attribute.|
 |`esc_html__`|Return a translated string intended for use between HTML tags|
-|`esc_attr_e`|Return a translated string intended for use in an HTML element attribute.|
+|`esc_attr__`|Return a translated string intended for use in an HTML element attribute.|
 
 When strings are used for further processing, function calls and or more advanced translation usages, the general class of translation functions should be used.
 
