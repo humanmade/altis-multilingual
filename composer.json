@@ -11,6 +11,11 @@
 	],
 	"require": {
 	},
+	"autoload": {
+		"files": [
+			"inc/namespace.php"
+		]
+	},
 	"extra": {
 		"altis": {}
 	}
