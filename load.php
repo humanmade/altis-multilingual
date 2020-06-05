@@ -1,9 +1,14 @@
 <?php
+/**
+ * Altis Multilingual Module.
+ *
+ * @package altis/multilingual
+ */
 
-namespace Altis\Multilingual; // @codingStandardsIgnoreLine
+namespace Altis\Multilingual; // phpcs:ignore
 
-use function Altis\register_module;
+use Altis;
 
 add_action( 'altis.modules.init', function () {
-	register_module( 'multilingual', __DIR__, 'Multilingual', [] );
+	Altis\register_module( 'multilingual', __DIR__, 'Multilingual', [] );
 } );
