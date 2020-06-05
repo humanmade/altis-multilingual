@@ -2,7 +2,7 @@
 /**
  * Altis Multilingual Module.
  *
- * @package altis-multilingual
+ * @package altis/multilingual
  */
 
 namespace Altis\Multilingual; // phpcs:ignore
