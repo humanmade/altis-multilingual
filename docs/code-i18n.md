@@ -36,8 +36,8 @@ When strings are used for further processing, function calls and or more advance
 |Function|Description|
 |-|-|
 |`__( $string, 'my-text-domain' )`|Return the translated string for a given text domain.|
-|`_n( $singular_string, $plural_string, $count, 'my-text-domain' )`|Return a the translated string for a singular / plural variation.|
-|`_x( $string, $context, 'my-text-domain' )`| Return the translated for for the text domain, specifying a context string to be provided to translators.|
+|`_n( $singular_string, $plural_string, $count, 'my-text-domain' )`|Return a translated string for a singular / plural variation.|
+|`_x( $string, $context, 'my-text-domain' )`| Return the translated string for the text domain, specifying a context string to be provided to translators.|
 
 ### Dynamic Strings
 
